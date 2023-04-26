@@ -6,3 +6,4 @@ References :
 
 Results : 
 1. Answer 1 => Game Play => MDP => Play 7 questions => Quit at 8th stage => (Converged in 10 iterations)
+2. Answer 1 => Game Play => Monte Carlo => Play 4 questions => Quit at 5th stage
